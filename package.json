@@ -1,6 +1,6 @@
 {
   "name": "os_properties",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Utilities from OS package for using automatically",
   "main": "index.js",
   "scripts": {
