@@ -17,7 +17,6 @@
   "author": "Osiris Alvarez",
   "license": "MIT",
   "devDependencies": {
-    "eslint": "^9.32.0",
     "standard":"^17.0.0"
   },
   "eslintConfig": {
